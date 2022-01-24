@@ -1,0 +1,22 @@
+{
+  "name": "nikhil",
+  "version": "1.0.0",
+  "description": "my first one",
+  "main": "index.html",
+  "scripts": {
+    "test": "1000",
+    "start":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "2000"
+  },
+  "keywords": [
+    "kmit"
+  ],
+  "author": "nikhil",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
